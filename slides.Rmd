@@ -1,0 +1,41 @@
+---
+title: "Slides"
+---
+
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 16px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 48px;
+  font-weight: bold;
+  color:#1f618d;
+  font-family: Tahoma, sans-serif
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color:#1f618d;
+  font-family: Tahoma, sans-serif
+}
+
+
+div.blue { background-color:#f0fbfc ; border-radius: 4px; padding: 10px;}
+
+</style>
+
+<br>
+
+
+## Introduction 
+
+
+
+<iframe width="1120" height="720 border: 6px" src="Data-basics-example.html" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);"></iframe>
+

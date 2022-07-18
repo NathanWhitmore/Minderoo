@@ -1,0 +1,52 @@
+---
+title: "Data basics for project design and implementation"
+---
+
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 16px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 48px;
+  font-weight: bold;
+  color:#1f618d;
+  font-family: Tahoma, sans-serif
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color:#1f618d;
+  font-family: Tahoma, sans-serif
+}
+
+
+div.blue { background-color:#f0fbfc ; border-radius: 4px; padding: 10px;}
+
+</style>
+
+<br>
+
+### Objective
+<div class = "blue">
+The purpose of this website is to provide brief, practical advice to people wanting to better integrate data science into their conservation projects. 
+</div>
+
+<br>
+
+In order to help individuals and organisations associated with the Minderoo Foundation achieve that goal I am assembling a set of short chapters to cover the major concepts.
+
+<br>
+
+### Current chapters
+* [Slides](slides.html)
+* [How to build a basic strategy](data.html)
+* [Science - the basics](science.html)
+
+
+
