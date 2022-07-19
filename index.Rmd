@@ -34,16 +34,16 @@ div.blue { background-color:#f0fbfc ; border-radius: 4px; padding: 10px;}
 
 ### Objective
 <div class = "blue">
-The purpose of this website is to provide brief, practical advice to people wanting to better integrate data science into their conservation projects. 
+The purpose of this website is to provide brief, practical advice to people wanting to better integrate data science into their conservation and development projects. 
 </div>
 
 <br>
 
-In order to help individuals and organisations associated with the Minderoo Foundation achieve that goal I am assembling a set of short chapters to cover the major concepts.
+In order to help individuals and organisations associated with the Minderoo Foundation achieve that goal I am assembling a set of support materials to cover the major concepts.
 
 <br>
 
-### Current chapters
+### Support materials
 * [Slides](slides.html)
 * [How to build a basic strategy](data.html)
 * [Science - the basics](science.html)
