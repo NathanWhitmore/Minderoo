@@ -1,5 +1,5 @@
 ---
-title: "Data basics for project design and implementation"
+title: "&nbsp;"
 ---
 
 
@@ -34,7 +34,9 @@ div.blue { background-color:#f0fbfc ; border-radius: 4px; padding: 10px;}
 
 
 
-<iframe width="1120" height="720 border: 6px" src="Data-basics-example.html" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);"></iframe>
+<iframe width="1000" height="600 border: 6px" src="title.html"></iframe>
+
+<br>
 
 
 ### Objective
@@ -44,15 +46,18 @@ The purpose of this website is to provide brief, practical advice to people want
 
 <br>
 
-In order to help individuals and organisations associated with the Minderoo Foundation achieve that goal I am assembling a set of support materials to cover the major concepts.
+In order to help individuals and organisations associated with the Minderoo Foundation achieve that goal I have assembled a set of support materials to cover the major concepts covered in the workshop course.
 
 <br>
 
 ### Support materials
-* [Slides](slides.html)
+* [Workshop slides](slides.html)
 * [How to build a basic strategy](strategy.html)
 * [Science - the basics](science.html)
 * [Additional resources](resources.html)
 
-### About the author
-My name is Nathan Whitmore, and I’m a conservation scientist and practitioner. Over the years I have worked variously as a fisheries observer, conservation ranger, and, from 2012 to 2018, as an in-country adviser for the Wildlife Conservation Society’s Papua New Guinea programme. I am currently based in New Zealand where I work for [Reproducible](reproducible.co.nz) as a conservation analyst.
+<br>
+
+### About the creator
+
+The materials in this course were created by Nathan Whitmore, a conservation scientist and practitioner. Over the years he has worked variously as a fisheries observer, conservation ranger, and, from 2012 to 2018, as an in-country adviser for the Wildlife Conservation Society’s Papua New Guinea programme. He is currently based in New Zealand where he runs [Reproducible](reproducible.co.nz),  a small conservation consultancy. Reproducible focuses on various aspects of data integration including staff and organisation training, study design and simulation, and the development of automated data analyses for project level data.

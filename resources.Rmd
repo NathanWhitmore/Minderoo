@@ -29,9 +29,9 @@ div.blue { background-color:#f0fbfc ; border-radius: 4px; padding: 10px;}
 
 
 ### R for Conservation and Development Projects
-If you want to go a step further and get into the nuts and bolts of data science with Program R, a free and versatile statistical programming environment, you may like to check out my book: **R for Conservation and Development Projects: A Primer for Practitioners** which came out in 2021.
+If you want to go a step further and get into the nuts and bolts of data science with Program R, a free and versatile statistical programming environment, you may like to check out the book: **R for Conservation and Development Projects: A Primer for Practitioners** which came out in 2021 (written by Nathan Whitmore).
 
-This book is aimed at conservation and development practitioners who need to learn and use R in a part-time professional context. It gives people with a non-technical background a set of skills to graph, map, and model in R. It also provides background on data integration in project management and covers fundamental statistical concepts. The book aims to demystify R and give practitioners the confidence to use it.
+This book is aimed at conservation and development practitioners who need to learn and use R in a part-time professional context. It gives people with a non-technical background a set of skills to graph, map, and model in R. It also provides background on data integration in project management and covers fundamental statistical concepts. The book aims to demystify Program R and give practitioners the confidence to use it.
 
 <br>
 
