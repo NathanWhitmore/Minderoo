@@ -36,16 +36,37 @@ div.blue { background-color:#f0fbfc ; border-radius: 4px; padding: 10px;}
 
 <br>
 
-## Part 1
+## 1: Introduction
 
 
 
-<iframe width="1120" height="720 border: 6px" src="Data-basics-example.html" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);"></iframe>
+<iframe width="1120" height="720 border: 6px" src="Part_1_Introduction.html" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);"></iframe>
 
 
-## Part 2
+## 2: Science & management
 
-<br>
+<iframe width="1120" height="720 border: 6px" src="Part_2_Science_adaptive_management.html" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);"></iframe>
 
 
-## Part 3
+## 3: Evidence & decision making
+
+
+<iframe width="1120" height="720 border: 6px" src="Part_3_Evidence_and_decision_making.html" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);"></iframe>
+
+## 4: Strategy
+
+
+<iframe width="1120" height="720 border: 6px" src="Part_4_Strategy.html" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);"></iframe>
+
+## 5: Data science
+
+
+<iframe width="1120" height="720 border: 6px" src="Part_5_dark_art_of_data_science.html" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);"></iframe>
+
+## 6: Data disasters
+
+
+<iframe width="1120" height="720 border: 6px" src="Part_6_Data_disasters.html" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);"></iframe>
+
+
+

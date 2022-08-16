@@ -1,0 +1,111 @@
+---
+title: "How to build a basic strategy"
+---
+
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 16px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 48px;
+  font-weight: bold;
+  color:#1f618d;
+  font-family: Tahoma, sans-serif
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color:#1f618d;
+  font-family: Tahoma, sans-serif
+}
+
+
+div.blue { background-color:#f0fbfc ; border-radius: 4px; padding: 10px;}
+
+</style>
+
+<br>
+
+
+### What is a strategy?
+<div class = "blue">
+A strategy is simply the allocation of finite resources to actions in order to achieve an objective.
+</div>
+
+
+
+<br>
+
+
+*An example of a simple strategy would be:*
+
+<ul>
+To restore an ecosystem (**objective**) through revegetation (**action**) using volunteers (**resource**).*
+</ul>
+
+<br>
+
+### Why is it important?
+
+<div class = "blue">
+Without a strategy we risk wasting money and resources without a clear purpose. 
+</div>
+
+<br>
+
+
+
+<br>
+
+### Strategic planning
+<div class = "blue">
+Every individual or organisation must go through 3 key planning steps in order to construct a strategy:
+
+1. Define an objective
+1. Formulate a set of actions
+1. Allocate resources to those actions
+</div>
+
+<br>
+
+### Make logical links
+<div class = "blue">
+There should be a logical link between actions, and objective. This means, at a minimum, you need to have a theory as to why these actions should help achieve your objective.
+</div>
+<br>
+
+Often funding agencies will require such links to be made clear in a project proposal. Often they will ask for a theory-of-change (often shown as a diagram), or a table (known as a logframe -- short for logical framework).
+
+The absence of a logical link in a project is sometimes refereed to as magical thinking.
+
+<br>
+
+### Assumptions
+<div class = "blue">
+The link between an action and an objective will always be based on a set of assumptions. Often it is help to write these down, and think about whether or not these are reasonable.
+</div>
+<br>
+
+Sometimes during the course of your project you will learn that some of your assumptions are so wrong that the actions you have been engaging in should be abandoned. For this reason logframes and theory-of-change should only be used as an initial guide and updated when required. They should never be used as a prescription.
+
+
+<br>
+
+### Be practical
+<div class = "blue">
+The actions which you devise must be practical. That means having the resources (including but not limited to: skill set, staff, equipment, time and money) available to undertake the actions you are planning.
+</div>
+<br>
+
+If you are unsure whether you have sufficient resources you will need to do some form of inventory in order to establish what resources you have on-hand and what resources need to be brought in. From here you are in the position to develop a financial plan for the project in the form of a table known as a budget.
+
+The existence of a budget demonstrates the seriousness of a project. The absence of a budget usually indicates that an organisation does not have a serious strategy. 
+
+<br>
+

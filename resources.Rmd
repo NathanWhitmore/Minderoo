@@ -1,0 +1,83 @@
+---
+title: "Resources"
+---
+
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 16px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 48px;
+  font-weight: bold;
+  color:#1f618d;
+  font-family: Tahoma, sans-serif
+}
+
+
+div.blue { background-color:#f0fbfc ; border-radius: 4px; padding: 10px;}
+
+</style>
+
+<br>
+
+
+
+
+### R for Conservation and Development Projects
+If you want to go a step further and get into the nuts and bolts of data science with Program R, a free and versatile statistical programming environment, you may like to check out my book: **R for Conservation and Development Projects: A Primer for Practitioners** which came out in 2021.
+
+This book is aimed at conservation and development practitioners who need to learn and use R in a part-time professional context. It gives people with a non-technical background a set of skills to graph, map, and model in R. It also provides background on data integration in project management and covers fundamental statistical concepts. The book aims to demystify R and give practitioners the confidence to use it.
+
+<br>
+
+**Key Features:**
+
+* Viewing data science as part of a greater knowledge and decision making system
+* Foundation sections on inference, evidence, and data integration
+* Plain English explanations of R functions
+* Relatable examples which are typical of activities undertaken by conservation and development organisations in the developing world
+* Worked examples showing how data analysis can be incorporated into project reports
+
+<br>
+
+
+<br>
+![](https://raw.githubusercontent.com/NathanWhitmore/R4condevblog/main/book%20cover.jpg)
+
+<br>
+The book is available at all major book distributors (kindle, ebook, paper back, and hardback versions) including:
+
+- [The Book Depository](https://www.bookdepository.com/R-for-Conservation-Development-Projects-Nathan-Whitmore/9780367205485?ref=grid-view&qid=1611283102040&sr=1-1)
+- [Amazon](https://www.amazon.com/Conservation-Development-Projects-Chapman-Hall/dp/0367205483)
+- [Booktopia](https://www.booktopia.com.au/r-for-conservation-and-development-projects-nathan-whitmore/book/9780367205485.html)
+
+<br>
+
+### Conservation Standards
+
+[The Conservation Standards](https://conservationstandards.org/): A portal for conservation projects which gives detailed and comprehensive advice for designing, measuring, and implementing conservation programmes.
+
+<br>
+
+### Tools4dev
+
+[Tools4dev.org](https://www.tools4dev.org/): A website providing many resources for building the skill set of international development and aid professionals.
+
+<br>
+
+### What works
+
+[Whatworks.org.nz](https://whatworks.org.nz/): A website which describes in simple terms different project design frameworks and approaches (including some examples of qualitative approaches).
+
+<br>
+
+### Organisational knowledge
+
+[The following paper](https://centreforhumanitarianleadership.org/research/publications/institutional-amnesia-and-humanitarian-disaster-management/) looks at institutional knowledge loss with regard to humanitarian agencies and outlines ways these issues could be remedied.
+
+Alastair Stark (2020) Institutional Amnesia and Humanitarian Disaster Management Working Paper 005. An overview of the loss of institutional knowledge and how it affects humanitarian agencies

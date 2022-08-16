@@ -32,6 +32,11 @@ div.blue { background-color:#f0fbfc ; border-radius: 4px; padding: 10px;}
 
 <br>
 
+
+
+<iframe width="1120" height="720 border: 6px" src="Data-basics-example.html" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);"></iframe>
+
+
 ### Objective
 <div class = "blue">
 The purpose of this website is to provide brief, practical advice to people wanting to better integrate data science into their conservation and development projects. 
@@ -45,8 +50,9 @@ In order to help individuals and organisations associated with the Minderoo Foun
 
 ### Support materials
 * [Slides](slides.html)
-* [How to build a basic strategy](data.html)
+* [How to build a basic strategy](strategy.html)
 * [Science - the basics](science.html)
+* [Additional resources](resources.html)
 
-
-
+### About the author
+My name is Nathan Whitmore, and I’m a conservation scientist and practitioner. Over the years I have worked variously as a fisheries observer, conservation ranger, and, from 2012 to 2018, as an in-country adviser for the Wildlife Conservation Society’s Papua New Guinea programme. I am currently based in New Zealand where I work for [Reproducible](reproducible.co.nz) as a conservation analyst.

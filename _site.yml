@@ -16,9 +16,10 @@ navbar:
       href: index.html
     - text: "Slides"
       href: slides.html
-    - text: "Data"
-      href: data.html
+    - text: "Strategy"
+      href: strategy.html
     - text: "Science"
       href: science.html
-
+    - text: "Resources"
+      href: resources.html
 
