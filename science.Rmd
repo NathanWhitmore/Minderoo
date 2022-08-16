@@ -45,7 +45,7 @@ By this definition knowledge which cannot be updated can not be scientific. This
 
 <br>
 
-### What is evidence?
+## What is evidence?
 <div class = "blue">
 Evidence is an observation that is consistent with a certain idea being true.
 </div>
@@ -56,7 +56,7 @@ In science this evidence needs to be observable, and reproducible (meaning it ca
 
 <br>
 
-### Scientific method
+## Scientific method
 <div class = "blue">
 One way to generate scientific knowledge is through a formalised 3-step process called the *scientific method*. 
 </div>
